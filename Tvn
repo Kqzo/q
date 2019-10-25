@@ -1,0 +1,162 @@
+#EXTM3U
+#EXTINF:-1,BNT 3 HD http://212.25.58.239:85/BNTHD/index.m3u8
+#EXTINF:-1,EUROSPORT 1: HD http://212.25.58.239:85/EurosportHD/index.m3u8 
+#EXTINF:-1,EUROSPORT 2: https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+#EXTINF:-1,AUTO MOTOR SPORT https://cdn1.mobiletv.bg/T9/ams_hd/ams_hd_794613_850k.m3u8 
+#EXTINF:-1,BTV CINEMA http://212.25.58.239:85/BTVCinema/index.m3u8
+ #EXTINF:-1,BTV CINEMA http://94.156.59.246:8899/udp/224.2.1.84:1234
+ #EXTINF:-1,BTV COMEDY http://212.25.58.239:85/BTVComedy/index.m3u8 
+ #EXTINF:-1,BTV COMEDY http://94.156.59.246:8899/udp/224.2.1.83:1234 
+ #EXTINF:-1,BTV LADY http://78.128.1.137:10117/ 
+ #EXTINF:-1,KINO NOVA http://94.156.59.246:8899/udp/224.2.1.75:1234
+ #EXTINF:-1,KINO NOVA https://cdn1.mobiletv.bg/T3/kinonova/kinonova_794613_850k.m3u8 
+ #EXTINF:-1,DIEMA http://212.25.58.239:85/Diema/index.m3u8 
+ #EXTINF:-1,DIEMA http://94.156.59.246:8899/udp/224.2.1.76:1234 
+ #EXTINF:-1,DIEMA https://cdn1.mobiletv.bg/T13/diema_archive/dvr.m3u8
+ #EXTINF:-1,DIEMA FAMILY http://94.156.59.246:8899/udp/224.2.1.2:1234 
+ #EXTINF:-1,HBO http://212.25.58.239:85/HBO/index.m3u8 
+ #EXTINF:-1,HBO http://94.156.59.246:8899/udp/239.1.0.82:4000 
+ #EXTINF:-1,HBO 2 http://94.156.59.246:8899/udp/239.1.2.81:4000
+ #EXTINF:-1,HBO 3 http://94.156.59.246:8899/udp/239.1.0.83:4000 
+ #EXTINF:-1,CINEMAX http://212.25.58.239:85/Cinemax/index.m3u8 
+ #EXTINF:-1,CINEMAX HD http://212.25.58.239:85/CinemaxHD/index.m3u8
+ #EXTINF:-1,CINEMAX 2 http://212.25.58.239:85/Cinemax2/index.m3u8
+ #EXTINF:-1,MOVIE STAR http://212.25.58.239:85/Moviestar/index.m3u8 
+ #EXTINF:-1,MOVIE STAR https://cdn1.mobiletv.bg/T9/moviestar_archive/dvr.m3u8 
+ #EXTINF:-1,FILMBOX https://cdn1.mobiletv.bg/T7/filmbox_extra/filmbox_extra_794613_850k.m3u8 
+ #EXTINF:-1,FILM BOX HD http://212.25.58.239:85/FilmBoxExtraHD/index.m3u8 
+ #EXTINF:-1,FILMBOX + https://cdn1.mobiletv.bg/T10/filmbox_plus_archive/dvr.m3u8 
+ #EXTINF:-1,TV 1000 http://212.25.58.239:85/TV1000/index.m3u8
+ #EXTINF:-1,AXN http://212.25.58.239:85/AXN/index.m3u8
+ #EXTINF:-1,AXN http://94.156.59.246:8899/udp/224.2.1.7:1234 
+ #EXTINF:-1,AXN https://cdn1.mobiletv.bg/T13/axn_archive/dvr.m3u8
+ #EXTINF:-1,AXN Black http://212.25.58.239:85/AXNBlack/index.m3u8 
+ #EXTINF:-1,AXN BLACK http://94.156.59.246:8899/udp/224.2.1.152:1234
+ #EXTINF:-1,AXN White http://212.25.58.239:85/AXNWhite/index.m3u8 
+ #EXTINF:-1,AXN WHITE http://94.156.59.246:8899/udp/224.2.1.151:1234 
+ #EXTINF:-1,FOX http://212.25.58.239:85/FOX/index.m3u8
+ #EXTINF:-1,FOX http://94.156.59.246:8899/udp/224.2.1.109:1234 
+ #EXTINF:-1,FOX HD http://212.25.58.239:85/FOXHD/index.m3u8
+ #EXTINF:-1,FOX CRIME http://212.25.58.239:85/FoxCrime/index.m3u8 
+ #EXTINF:-1,FOX CRIME http://94.156.59.246:8899/udp/224.2.1.89:1234 
+ #EXTINF:-1,FOX CRIME https://cdn1.mobiletv.bg/T10/fox_crime_archive/dvr.m3u8
+ #EXTINF:-1,FOX LIFE http://212.25.58.239:85/FoxLife/index.m3u8 
+ #EXTINF:-1,FOX LIFE http://94.156.59.246:8899/udp/224.2.1.88:1234
+ #EXTINF:-1,CBS REALITY http://212.25.58.239:85/CBSReality/index.m3u8 
+ #EXTINF:-1,CBS REALITY http://94.156.59.246:8899/udp/224.2.1.153:1234 
+ #EXTINF:-1,TLC http://94.156.59.246:8899/udp/224.2.1.9:1234 
+ #EXTINF:-1,COMEDY CENTRAL http://212.25.58.239:85/ComedyCentral/index.m3u8
+ #EXTINF:-1,CITY http://212.25.58.239:85/CityTV/index.m3u8 
+ #EXTINF:-1,CITY http://94.156.59.246:8899/udp/224.2.1.87:1234 
+ #EXTINF:-1,CITY https://cdn1.mobiletv.bg/T10/citytv/citytv_794613_850k.m3u8
+ #EXTINF:-1,JUKEBOX http://94.156.59.246:8899/udp/239.1.3.3:4000 
+ #EXTINF:-1,THE VOICE http://94.156.59.246:8899/udp/224.2.1.77:1234 
+ #EXTINF:-1,THE VOICE http://78.128.1.137:10126/ 
+ #EXTINF:-1,MAGIC TV http://212.25.58.239:85/MagicTV/index.m3u8 
+ #EXTINF:-1,PLANETA http://212.25.58.239:85/PlanetaTV/index.m3u8 
+ #EXTINF:-1,PLANETA FOLK http://94.156.59.246:8899/udp/224.2.1.67:1234 
+ #EXTINF:-1,PLANETA HD http://94.156.59.246:8899/udp/239.10.1.211:30000 
+ #EXTINF:-1,PLANETA http://94.156.59.246:8899/udp/224.2.1.72:1234 
+ #EXTINF:-1,Balkanika http://212.25.58.239:85/Balkanika/index.m3u8 
+ #EXTINF:-1,BALKANKA http://94.156.59.246:8899/udp/224.2.1.66:1234 
+ #EXTINF:-1,BALKANIKA HD http://94.156.59.246:8899/udp/239.1.3.123:4000 
+ #EXTINF:-1,BG MUSIC HD http://94.156.59.246:8899/udp/239.1.3.121:4000 
+ #EXTINF:-1,BG Music CH HD http://212.25.58.239:85/BGMusicChannelHD/index.m3u8 
+ #EXTINF:-1,BOX http://94.156.59.246:8899/udp/239.10.1.164:30000 
+ #EXTINF:-1,BOX HD http://212.25.58.239:85/BoxHD/index.m3u8 
+ #EXTINF:-1,DM SAT http://212.25.58.239:85/DMSat/index.m3u8 
+ #EXTINF:-1,DOCU BOX HD http://212.25.58.239:85/DocuBoxHD/index.m3u8 
+ #EXTINF:-1,DSTV http://212.25.58.239:85/DSTV/index.m3u8 
+ #EXTINF:-1,FEN http://212.25.58.239:85/FANTV/index.m3u8 
+ #EXTINF:-1,FEN http://94.156.59.246:8899/udp/224.2.1.65:1234 
+ #EXTINF:-1,FEN https://cdn1.mobiletv.bg/T7/fentv/fentv_794613_850k.m3u8 
+ #EXTINF:-1,FEN HD http://212.25.58.239:85/FenTV/index.m3u8 
+ #EXTINF:-1,FEN HD http://94.156.59.246:8899/udp/239.1.3.122:4000 
+ #EXTINF:-1,HIT MIX http://212.25.58.239:85/HitTV/index.m3u8 
+ #EXTINF:-1,FOLKLOR http://94.156.59.246:8899/udp/224.2.1.63:1234 
+ #EXTINF:-1,HMTV http://212.25.58.239:85/HMTV/index.m3u8 
+ #EXTINF:-1,ONE 2 UHD http://rtmp.one.by:1400 
+ #EXTINF:-1,NASA UHD http://94.156.59.246:8899/udp/224.2.1.36:1234 
+ #EXTINF:-1,Alfa TV http://212.25.58.239:85/AlfaTV/index.m3u8 
+ #EXTINF:-1,ALFA http://94.156.59.246:8899/udp/224.2.1.60:1234 
+ #EXTINF:-1,ALFA http://94.156.59.246:8899/udp/224.2.1.53:1234 
+ #EXTINF:-1,BG ON AIR http://212.25.58.239:85/BGOnAir/index.m3u8 
+ #EXTINF:-1,BG ON AIR http://94.156.59.246:8899/udp/224.2.1.54:1234 
+ #EXTINF:-1,BG ON AIR http://78.128.1.137:10118/ 
+ #EXTINF:-1,BIT http://212.25.58.239:85/BiT/index.m3u8 
+ #EXTINF:-1,BIT http://94.156.59.246:8899/udp/224.2.1.55:1234 
+ #EXTINF:-1,Boomerang http://212.25.58.239:85/BloombergTV/index.m3u8 
+ #EXTINF:-1,BOOMERANG https://cdn1.mobiletv.bg/T14/boomerang/boomerang_794613_350k.m3u8 
+ #EXTINF:-1,BULGARIA 24 http://212.25.58.239:85/Bulgaria24/index.m3u8 
+ #EXTINF:-1,KANAL 3 http://212.25.58.239:85/Kanal3/index.m3u8 
+ #EXTINF:-1,KANAL 3 http://94.156.59.246:8899/udp/224.2.1.64:1234
+ #EXTINF:-1,KANAL 4 http://94.156.59.246:8899/udp/224.10.0.7:4000 
+ #EXTINF:-1,TV 1 http://212.25.58.239:85/TV1/index.m3u8 
+ #EXTINF:-1,TVN http://212.25.58.239:85/TVN/index.m3u8 
+ #EXTINF:-1,TVR 1 http://212.25.58.239:85/TVR1/index.m3u8 
+ #EXTINF:-1,VIASAT EXPLORER http://212.25.58.239:85/ViasatExplorer/index.m3u8 
+ #EXTINF:-1,VIASAT NATURE http://212.25.58.239:85/ViasatHD/index.m3u8 
+ #EXTINF:-1,VIASAT NATURE HD http://94.156.59.246:8899/udp/224.1.1.16:1234 
+ #EXTINF:-1,ANIMAL PLANET http://212.25.58.239:85/AnimalPlanet/index.m3u8
+ #EXTINF:-1,DISCOVERY http://212.25.58.239:85/DiscoveryHD/index.m3u8 
+ #EXTINF:-1,DISCOVERY http://94.156.59.246:8899/udp/224.2.1.78:1234 
+ #EXTINF:-1,NAT GEO http://212.25.58.239:85/NationalGeographic/index.m3u8 
+ #EXTINF:-1,NAT GEO http://94.156.59.246:8899/udp/224.2.1.110:1234 
+ #EXTINF:-1,NAT GEO HD http://212.25.58.239:85/NatGeoHD/index.m3u8 
+ #EXTINF:-1,NAT GEO HD http://94.156.59.246:8899/udp/224.2.1.35:1234 
+ #EXTINF:-1,NAT GEO WILD http://94.156.59.246:8899/udp/224.2.1.69:1234
+ #EXTINF:-1,HISTORY http://212.25.58.239:85/HistoryHD/index.m3u8 
+ #EXTINF:-1,FINE LIVING http://212.25.58.239:85/FineLiving/index.m3u8 
+ #EXTINF:-1,THIS IS BG http://212.25.58.239:85/TravelChannel/index.m3u8 
+ #EXTINF:-1,TRAVEL CH HD http://212.25.58.239:85/TravelChannelHD/index.m3u8 
+ #EXTINF:-1,TVT http://212.25.58.239:85/TVT/index.m3u8 
+ #EXTINF:-1,24 KITCHEN http://212.25.58.239:85/24Kitchen/index.m3u8 
+ #EXTINF:-1,24 KITCHEN http://94.156.59.246:8899/udp/224.2.1.91:1234 
+ #EXTINF:-1,24 KITCHEN http://78.128.1.137:10112/ 
+ #EXTINF:-1,FOOD NET http://212.25.58.239:85/FoodNetwork/index.m3u8 
+ #EXTINF:-1,WNESS TV http://212.25.58.239:85/WnessTV/index.m3u8 
+ #EXTINF:-1,XXX PORNO http://94.156.59.246:8899/udp/224.2.2.3:1234 
+ #EXTINF:-1,T 24 http://94.156.59.246:8899/udp/239.2.1.86:4000 
+ #EXTINF:-1,AGRO TV http://94.156.59.246:8899/udp/239.2.1.24:4000 
+ #EXTINF:-1,BLOOMBERG http://94.156.59.246:8899/udp/224.2.1.57:1234 
+ #EXTINF:-1,BG 24 http://94.156.59.246:8899/udp/239.2.1.136:4000 
+ #EXTINF:-1,CNN http://94.156.59.246:8899/udp/224.2.1.156:1234 
+ #EXTINF:-1,LUXE TV HD http://94.156.59.246:8899/udp/224.2.1.154:1234 
+ #EXTINF:-1,EVROCOM TZ http://94.156.59.246:8899/udp/224.2.2.30:1234
+ #EXTINF:-1,KCN 2 http://94.156.59.246:8899/udp/224.1.1.12:1234 
+ #EXTINF:-1,FINE LIVING http://94.156.59.246:8899/udp/224.2.1.44:1234 
+ #EXTINF:-1,KIVI TV http://94.156.59.246:8899/udp/224.2.2.33:1234 
+ #EXTINF:-1,EVROPA http://94.156.59.246:8899/udp/239.10.1.46:30000 
+ #EXTINF:-1,WF HD http://94.156.59.246:8899/udp/224.1.1.18:1234 
+ #EXTINF:-1,EVROKOM http://94.156.59.246:8899/udp/224.2.1.52:1234 
+ #EXTINF:-1,GCN http://94.156.59.246:8899/udp/224.10.0.3:4000 
+ #EXTINF:-1,GCN1 http://94.156.59.246:8899/udp/224.10.0.4:4000 
+ #EXTINF:-1,GCN 2 http://94.156.59.246:8899/udp/224.10.0.5:4000
+ #EXTINF:-1,RCK http://94.156.59.246:8899/udp/239.1.3.2:4000 
+ #EXTINF:-1,THIS IS BG http://94.156.59.246:8899/udp/239.2.1.29:4000 
+ #EXTINF:-1,TRT SPOR http://94.156.59.246:8899/udp/224.2.2.2:1234
+ #EXTINF:-1,TV + http://94.156.59.246:8899/udp/224.2.1.70:1234 
+ #EXTINF:-1,TV 1 HD http://94.156.59.246:8899/udp/239.1.1.205:4000 
+ #EXTINF:-1,TVE http://94.156.59.246:8899/udp/224.2.1.155:1234 
+ #EXTINF:-1,TVT http://94.156.59.246:8899/udp/239.10.1.171:30000 
+ #EXTINF:-1,ERT http://94.156.59.246:8899/udp/224.2.2.1:1234 
+ #EXTINF:-1,BTK http://94.156.59.246:8899/udp/224.2.1.56:1234 
+ #EXTINF:-1,SKAT http://94.156.59.246:8899/udp/224.2.1.15:1234 
+ #EXTINF:-1,THIS IS BG http://94.156.59.246:8899/udp/239.2.1.6:4000 
+ #EXTINF:-1,TRAVEL TV http://94.156.59.246:8899/udp/239.2.1.5:4000 
+ #EXTINF:-1,DTX http://94.156.59.246:8899/udp/224.1.1.20:1234 
+ #EXTINF:-1,KISS 13 http://212.25.58.239:85/Kis13/index.m3u8 
+ #EXTINF:-1,DISNEY http://78.128.1.137:10122/ 
+ #EXTINF:-1,DISNEY http://212.25.58.239:85/DisneyChannel/index.m3u8 
+ #EXTINF:-1,DISNEY JR http://212.25.58.239:85/DisneyJunior/index.m3u8 
+ #EXTINF:-1,CN http://78.128.1.137:10125/ 
+ #EXTINF:-1,CN http://94.156.59.246:8899/udp/224.2.1.61:1234 
+ #EXTINF:-1,CN http://212.25.58.239:85/CartoonNetwork/index.m3u8 
+ #EXTINF:-1,NICK JR https://cdn1.mobiletv.bg/T14/nickjr/nickjr_794613_350k.m3u8
+ #EXTINF:-1,NICK JR http://94.156.59.246:8899/udp/239.1.1.239:4000 
+ #EXTINF:-1,BABY https://cdn1.mobiletv.bg/T14/babytv/babytv_794613_350k.m3u8
+ #EXTINF:-1,BABY TV http://212.25.58.239:85/BabyTV/index.m3u8 
+ #EXTINF:-1,NICK http://94.156.59.246:8899/udp/224.2.1.62:1234
+ #EXTINF:-1,NICKELODEON http://212.25.58.239:85/Nickelodeon/index.m3u8
+ #EXTINF:-1,NICKELODEON http://94.156.59.246:8899/udp/239.1.1.240:4000
+ #EXTINF:-1,KIKA http://94.156.59.246:8899/udp/224.1.1.19:1234
